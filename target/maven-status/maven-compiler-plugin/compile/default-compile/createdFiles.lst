@@ -1,0 +1,5 @@
+ApiAppCourses\ApiCourses.class
+ApiAppCourses\TopicController.class
+ApiAppCourses\TopicRepository.class
+ApiAppCourses\Topic.class
+ApiAppCourses\TopicServices.class
